@@ -70,8 +70,8 @@ Los cuatro elementos se identifican como sigue:
 | Elemento | En el ejemplo |
 |---|---|
 | Decisor | Marisol |
-| Alternativas | a₁: puesto propio · a₂: compartir un puesto con una amiga, por mitades · a₃: no participar · a₄: puesto propio en una esquina de poca circulación |
-| Estados de la naturaleza | θ₁: asistencia baja · θ₂: asistencia media · θ₃: asistencia alta |
+| Alternativas | **a₁**: puesto propio · **a₂**: compartir un puesto con una amiga, por mitades · **a₃**: no participar · **a₄**: puesto propio en una esquina de poca circulación |
+| Estados de la naturaleza | **θ₁**: asistencia baja · **θ₂**: asistencia media · **θ₃**: asistencia alta |
 | Consecuencias | Ganancia neta del fin de semana, en pesos |
 
 ### 4.2 Requisitos de las alternativas
