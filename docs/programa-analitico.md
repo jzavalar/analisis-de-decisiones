@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # Programa Analítico · Análisis de Decisiones · UEA 2211092
 
 Licenciatura en Administración · División de Ciencias Sociales y Humanidades
