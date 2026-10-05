@@ -1,11 +1,18 @@
 # L1 · Plantear la decisión
 
-**Temas:** 1.4 (tipología de los problemas de decisión); 2.1 a 2.3 (elementos del problema, matriz de pagos y dominación)
-**Sesiones que la utilizan:** 5 y 6 · **Lectura previa a la sesión 5 (lunes 5 de octubre)**
+**Temas:** 
+- 1.4 (tipología de los problemas de decisión); 
+- 2.1 a 2.3 (elementos del problema, matriz de pagos y dominación)
+
+**Sesiones que la utilizan:** 5 y 6 · 
+
+**Lectura previa a la sesión 5 (lunes 5 de octubre)**
+
 **Tiempo estimado de lectura:** 30 minutos
 
 **prof. dr. Jesús Zavala Ruiz** · Universidad Autónoma Metropolitana, Unidad Iztapalapa
 **Última actualización:** 5 de octubre de 2026
+
 Material de elaboración propia, publicado bajo licencia [Creative Commons Atribución-CompartirIgual 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Los ejemplos y ejercicios son originales y sus resultados se verificaron mediante un programa antes de su publicación.
 
 > «…reemplazar la racionalidad global del hombre económico…»
